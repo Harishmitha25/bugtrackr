@@ -104,25 +104,30 @@ BugTrackR/
 ```bash
 git clone https://github.com/your-username/BugTrackR-MSc-Project.git
 cd BugTrackR-MSc-Project
+```
 
 ### 2. Set up backend
+```bash
 cd backend
 cp .env.example .env
 npm install
 npm run dev
+```
 Ensure MongoDB is running locally or update .env for Atlas URI.
 
 ### 3.Set up frontend
+```bash
 cd ../frontend
 cp .env.example .env
 npm install
 npm start
-
+```
 ### 4. Set up ML services (for both duplicate detection and priority classification)
+```bash
 cd ../duplicate-detection-service
 pip install -r requirements.txt
 uvicorn app:app --reload --port 8000
-
+```
 
 ## Testing
 
