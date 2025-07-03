@@ -5,18 +5,6 @@ BugTrackR is an intelligent, role-based bug tracking and reporting system develo
 Full report of the project is available in this repository under docs/ for more information.
 ---
 
-## Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [System Architecture](#-system-architecture)
-- [Folder Structure](#-folder-structure)
-- [Setup and Installation](#-setup-and-installation)
-- [Testing](#-testing)
-
----
-
 ## Project Overview
 
 BugTrackR addresses inefficiencies in traditional bug management systems such as redundant bug reports, delayed assignments, and lack of collaboration. It provides:
