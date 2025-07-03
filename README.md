@@ -148,3 +148,7 @@ Use dummy data or sample bug reports to test the following endpoints:
 - `POST /classify-priority`
 
 These endpoints are hosted in the FastAPI-based ML microservices.
+
+## Author
+Harishmitha Raja
+harishmithar16@gmail.com
