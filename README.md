@@ -2,7 +2,6 @@
 
 BugTrackR is an intelligent, role-based bug tracking and reporting system developed as part of my MSc Individual Project (Dissertation) at the University of Leicester. It streamlines bug management workflows by combining structured dashboards, real-time collaboration, and intelligent automation using ML and NLP.
 
-Full report of the project is available in this repository under docs/ for more information.
 ---
 
 ## Project Overview
@@ -152,3 +151,5 @@ These endpoints are hosted in the FastAPI-based ML microservices.
 ## Author
 Harishmitha Raja
 harishmithar16@gmail.com
+
+For more information, please contact me at the above email address.
