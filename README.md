@@ -101,14 +101,13 @@ BugTrackR/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/BugTrackR-MSc-Project.git
-cd BugTrackR-MSc-Project
+git clone https://github.com/Harishmitha25/bugtrackr-software-bug-tracking-and-reporting-tool.git
+cd bugtrackr-software-bug-tracking-and-reporting-tool
 ```
 
 ### 2. Set up backend
 ```bash
 cd backend
-cp .env.example .env
 npm install
 npm run dev
 ```
@@ -117,7 +116,6 @@ Ensure MongoDB is running locally or update .env for Atlas URI.
 ### 3.Set up frontend
 ```bash
 cd ../frontend
-cp .env.example .env
 npm install
 npm start
 ```
