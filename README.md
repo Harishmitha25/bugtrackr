@@ -2,6 +2,7 @@
 
 BugTrackR is an intelligent, role-based bug tracking and reporting system developed as part of my MSc Individual Project (Dissertation) at the University of Leicester. It streamlines bug management workflows by combining structured dashboards, real-time collaboration, and intelligent automation using ML and NLP.
 
+**I received the Best Software Project Prize from University of Leicester for this Project**
 ---
 
 ## Project Overview
